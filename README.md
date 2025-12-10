@@ -19,4 +19,4 @@ Nicholas Hoerig
 - [Maps of Oxford, OH topography](map-coordinate-basics/understanding-coordinates.ipynb)
 
 ## Spatial Data Analysis
-- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](GitHub Link)
+- [Maps of John Snow's Cholera Outbreak Invesitation in Soho](spatial-data-analysis.ipynb)
